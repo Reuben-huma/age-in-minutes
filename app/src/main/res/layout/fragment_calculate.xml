@@ -75,7 +75,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/view"
-                tools:text="Selected date:" />
+                tools:text="Selected date: Thu Feb 4" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -87,7 +87,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView3"
-                tools:text="Calculated age:" />
+                tools:text="Calculated age: 1440" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
 
